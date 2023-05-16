@@ -1,17 +1,20 @@
 *{
     font-family: 'Josefin Sans', sans-serif;
+    color: #333333;
 }
+
+
+/*navbar */
 
 .navbar{
     background-color:rgb(255, 255, 255);
     height: 50px;
-    width: 100%;
     padding-top: 5px;
 }
 
 .navbarlogo{
     position: absolute;
-    margin-left: 10%;
+    margin-left: 200px;
     height: 40px; 
     width: 180px;
 }
@@ -20,7 +23,7 @@
 .naveachbutton{
     position: absolute;
     display: inline-flex;
-    margin-left: 45%;
+    margin-left: 650px;
     padding: 0px;
 }
 
@@ -31,4 +34,57 @@
 
 a{
     text-decoration: none;
+}
+
+
+/* landing page */ 
+.section2{
+    height: 575px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.title1{
+    position: absolute;
+    margin-top: 162px;
+    margin-left: 250px;
+    height: 300px;
+    width:500px;
+    background-color: rgb(255, 255, 255);
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.helloiam{
+    margin-left:15px ;
+    font-size: 50px;
+}
+
+.name{
+    font-size:70px ;
+    font-style: italic; 
+    margin: 5px 0 5px 0;  
+}
+
+.tagline{
+    margin-left: 15px;
+    font-size:20px ;
+    line-height :1.5em; ;
+}
+
+img{
+    padding: 0;
+    margin: 0;
+}
+.keyboardpic{
+    position: absolute;
+    margin-left:800px;
+    margin-top:25px ;
+    width:475px;
+    height: 475px;
+    background-color: rgb(255, 255, 255);
+
 }
