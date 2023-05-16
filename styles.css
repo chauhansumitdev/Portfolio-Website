@@ -14,7 +14,7 @@
 
 .navbarlogo{
     position: absolute;
-    margin-left: 200px;
+    margin-left: 175px;
     height: 40px; 
     width: 180px;
 }
@@ -29,11 +29,20 @@
 
 .naveachbutton li{
     list-style-type:none ;
-    margin-left: 15%;
+    margin-left: 50px;
 }
 
 a{
     text-decoration: none;
+}
+
+.screenholder{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    margin-left: 1300px;
+    color: #ffffff;
 }
 
 
@@ -47,7 +56,7 @@ a{
 .title1{
     position: absolute;
     margin-top: 162px;
-    margin-left: 250px;
+    margin-left: 225px;
     height: 300px;
     width:500px;
     background-color: rgb(255, 255, 255);
