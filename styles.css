@@ -36,16 +36,6 @@ a{
     text-decoration: none;
 }
 
-.screenholder{
-    background-color: rgb(255, 255, 255);
-    height: 50px;
-    width: 50px;
-    position: absolute;
-    margin-left: 1300px;
-    color: #ffffff;
-}
-
-
 /* landing page */ 
 .section2{
     height: 575px;
@@ -138,6 +128,6 @@ img{
 /* Section 2*/
 .section3{
     height: 300px;
-    width:100%;
+    width:1500px;
     background-color: #478ac9;
 }
