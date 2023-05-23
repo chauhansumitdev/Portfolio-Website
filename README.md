@@ -1,2 +1,3 @@
 # Website
-![SumitChauhan](https://github.com/chauhansumitdev/Portfolio-Website/assets/103536827/b698450d-5af0-4265-82f4-22bcbf317b66)
+
+![githubcover](https://github.com/chauhansumitdev/website/assets/103536827/d06b784d-b3e8-457e-9845-4ac2327553a3)
